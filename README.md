@@ -73,12 +73,12 @@ print(result, unans)
 ~~~
 
 ## Output
-##client
+## client
 <img width="751" height="51" alt="Screenshot 2026-03-17 201157" src="https://github.com/user-attachments/assets/2ab3008e-9942-413f-afe7-2609bfffb5bb" />
-##server
+## server
 
 <img width="835" height="262" alt="Screenshot 2026-03-17 201218" src="https://github.com/user-attachments/assets/55d1ee71-11cf-4ed7-87de-195b893757d8" />
-##tranceroute
+## tranceroute
 <img width="808" height="516" alt="Screenshot 2026-03-17 201243" src="https://github.com/user-attachments/assets/b077d96a-0f1a-49fa-943d-1000feb4441d" />
 
 
